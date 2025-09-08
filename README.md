@@ -1,6 +1,6 @@
 # RL_star
 
-merhaba
+Merhaba 👋
 
 Codex bağlantı testi başarılı ✅
 

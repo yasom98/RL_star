@@ -32,5 +32,3 @@ pytest
 
 
 merhaba
-
-merhaba

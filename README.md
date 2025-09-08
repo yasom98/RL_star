@@ -1,5 +1,7 @@
 # RL_star
 
+merhaba
+
 Codex bağlantı testi başarılı ✅
 
 Bu proje, basit bir grid tabanlı pekiştirmeli öğrenme (Reinforcement Learning) örneği sunar.
@@ -28,4 +30,3 @@ python -m rl_star.rl_grid
 pytest
 ```
 
-merhaba

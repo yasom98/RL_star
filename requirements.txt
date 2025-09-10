@@ -1,0 +1,6 @@
+numpy
+loguru
+tqdm
+snoop
+icecream
+pytest

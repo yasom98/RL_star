@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rl-star"
+version = "0.1.0"
+description = "Grid-based reinforcement learning example"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "numpy",
+    "loguru",
+    "tqdm",
+    "snoop",
+    "icecream",
+]
+
+[project.optional-dependencies]
+test = ["pytest"]
